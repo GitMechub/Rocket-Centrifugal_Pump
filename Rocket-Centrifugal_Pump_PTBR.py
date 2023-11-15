@@ -1,7 +1,6 @@
 # -*- coding: utf-8 -*-
 """
 
-TCC BOMBA FOGUETE.ipynb
 # PACKS
 
 """
